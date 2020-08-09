@@ -14,6 +14,7 @@ export async function up(knex: Knex) {
       .onDelete('CASCADE');
 
     table.timestamp('created_at').defaultTo('now()').notNullable();
+    //table.timestamp('created_at').defaultTo(knex.raw('CURRENT_TIMESSTAMP'));
   });
 }
 
