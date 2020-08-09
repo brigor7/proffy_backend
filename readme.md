@@ -10,7 +10,7 @@ Para atualizar informações do banco de dados digite: yarn knex:migrate
 
 **Tecnologias utilizadas:
 
-  Javascript
+  Typescript
 
   NodeJS
 
