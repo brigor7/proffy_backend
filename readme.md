@@ -1,19 +1,19 @@
-#Proffy Backend
+Proffy Backend
 
-##Implementação da atividade da semana NWL da Rocketseat
+Implementação da atividade da semana NWL da Rocketseat
 
-##Para baixar os arquivos da biblioteca digite: yarn install ou npm install
+Para baixar os arquivos da biblioteca digite: yarn install ou npm install
 
-##Para iniciar a aplicação digite yarn start
+Para iniciar a aplicação digite: yarn start
 
-##Para atualizar informações do banco de dados digite:yarn knex:migrate
+Para atualizar informações do banco de dados digite: yarn knex:migrate
 
-##Tecnologias utilizadas
+**Tecnologias utilizadas:
 
-## [*] Javascript
+  Javascript
 
-## [*] NodeJS
+  NodeJS
 
-## [*] SQLite3 - Banco de dados
+  SQLite3 - Banco de dados
 
-## [*] Outras bibliotecas ver package.json
+  Outras bibliotecas ver package.json
